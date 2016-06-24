@@ -1,4 +1,4 @@
-# HP Filter implementation (MATLAB)
+# HP Filter implementation
 Time-Series-Analysis
 
    This function decomposes a macroeconomic time series in the form of y = g + c in to a
