@@ -1,5 +1,5 @@
-# HP-filter---Time-Series-Analysis
 HP Filter implementation (MATLAB)
+Time-Series-Analysis
 
    This function decomposes a macroeconomic time series in the form of y = g + c in to a
  non-stationary trent component (g) and a stationary cyclical residual
